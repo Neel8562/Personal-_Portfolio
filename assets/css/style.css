@@ -129,7 +129,10 @@
   
   li { list-style: none; }
   
-  img, ion-icon, a, button, time, span { display: block; }
+  img, ion-icon, a, button, time, span {
+    display: block;
+    border-radius: 7px;
+  }
   
   button {
     font: inherit;

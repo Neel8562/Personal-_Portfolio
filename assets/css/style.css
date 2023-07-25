@@ -349,6 +349,7 @@
     background: var(--onyx);
     font-size: var(--fs-8);
     font-weight: var(--fw-300);
+    display: flex;
     width: max-content;
     padding: 3px 12px;
     border-radius: 8px;

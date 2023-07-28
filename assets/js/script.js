@@ -159,8 +159,8 @@ for (let i = 0; i < navigationLinks.length; i++) {
 }
 
 const items = [
-  "Programer",
-  "Web-devloper",
+  "Programmer",
+  "Web-developer",
   "Web-designer"
 ];
 

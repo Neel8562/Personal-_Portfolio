@@ -1200,7 +1200,11 @@
     z-index: 1;
     transition: var(--transition-1);
   }
-  
+
+.contact-button{
+  desplay:flex
+}
+
   .form-btn::before {
     content: "";
     position: absolute;
